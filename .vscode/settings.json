@@ -1,0 +1,5 @@
+{
+  "codeium.enableCodeLens": false,
+  "codeium.enableExplainProblem": true,
+  "codeium.enableInComments": false
+}
