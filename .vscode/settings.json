@@ -1,5 +1,6 @@
 {
   "codeium.enableCodeLens": false,
   "codeium.enableExplainProblem": true,
-  "codeium.enableInComments": false
+  "codeium.enableInComments": false,
+  "liveServer.settings.port": 5501
 }
